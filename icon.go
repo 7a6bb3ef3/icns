@@ -1,4 +1,4 @@
-package main
+package icns
 
 import (
 	"bytes"
